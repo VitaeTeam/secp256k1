@@ -8,7 +8,7 @@ to libsecp256k1.
 The purpose of this fork is to provide a stand-alone repository of just libsecp256k1
 (based off the Bitcoin ABC "Schnorr module enabled" fork of the secp256k1 codebase)
 for Electron Cash to pull in and build from. As such, this repository mostly lives as
-a submodule of the [Electron Cash sources](https://github.com/VitaeTeam/ViLight),
+a submodule of the [Vilight sources](https://github.com/VitaeTeam/ViLight),
 and is accessed using Electron Cash's ``contrib/make_secp`` script.
 
 ---
